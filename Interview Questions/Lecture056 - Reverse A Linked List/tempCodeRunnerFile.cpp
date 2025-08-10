@@ -1,0 +1,2 @@
+
+        ListNode* next = nullptr;
